@@ -1,0 +1,26 @@
+package com.hypocrite30.patterns.BuilderPattern.demo1.Impl;
+
+import com.hypocrite30.patterns.BuilderPattern.demo1.CarModel;
+
+/**
+ * @Description: 「建造者模式」引例
+ * @Author: Hypocrite30
+ * @Date: 2021/4/24 19:08
+ */
+public class BMWModel extends CarModel {
+    protected void alarm() {
+        System.out.println("宝马车的喇叭声音是这个样子的...");
+    }
+
+    protected void engineBoom() {
+        System.out.println("宝马车的引擎是这个声音的...");
+    }
+
+    protected void start() {
+        System.out.println("宝马车跑起来是这个样子的...");
+    }
+
+    protected void stop() {
+        System.out.println("宝马车应该这样停车...");
+    }
+}
