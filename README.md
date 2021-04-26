@@ -6,8 +6,14 @@
 
 
 
-- 📕 Note Book: [https://www.yuque.com/books/share/d2df87dd-ee45-4dfc-b849-909bc2795fb6?# 《设计模式》](https://www.yuque.com/books/share/d2df87dd-ee45-4dfc-b849-909bc2795fb6?# 《设计模式》)
+- 📕 Note Book: [https://www.yuque.com/hypocrite30/vf5tcx](https://www.yuque.com/hypocrite30/vf5tcx)
+
 - 📂 Code Repository: [https://github.com/hypocrite30/DesignPatterns](https://github.com/hypocrite30/DesignPatterns)
-- In directory 「`src`」
-- 📚 Reference books:  「`设计模式之禅` 第二版 」
+
+  - In directory 「`src`」
+
+- 📚 Reference books:  「`设计模式之禅` 第二版 」「重学Java设计模式 」
+
   - In directory 「`doc`」
+
+  
