@@ -26,8 +26,8 @@ public class Singleton_06 {
 
     public static void main(String[] args) {
         System.out.println(Singleton_06.getInstance());
-        // org.itstack.demo.design.Singleton_06 @ 2 b193f2d
+        // com.hypocrite30.patterns.Singleton.demo5.Singleton_06@4554617c
         System.out.println(Singleton_06.getInstance());
-        // org.itstack.demo.design.Singleton_06 @ 2 b193f2d
+        // com.hypocrite30.patterns.Singleton.demo5.Singleton_06@4554617c
     }
 }
